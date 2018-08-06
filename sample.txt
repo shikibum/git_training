@@ -9,3 +9,4 @@ pull リモートリポジトリの内容を取得する
 hoge01
 hoge02
 hoge03
+hoge04
