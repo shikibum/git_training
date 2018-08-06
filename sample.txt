@@ -10,3 +10,4 @@ hoge04
 hoge06
 ブランチテスト03
 hoge01
+hoge02
